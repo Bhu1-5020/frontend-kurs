@@ -13,6 +13,6 @@ let userAge = 29 ;
 let isAdmin = false ; 
 
 // einer typisierten Variable einen falschen Typ zuzuweisen
- let plz: number = "salzburg";
+// let plz: number = "salzburg";
 
 
